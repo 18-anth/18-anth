@@ -9,5 +9,7 @@
   
    [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-c-a12928111/)
 
-  <!--  ![](https://komarev.com/ghpvc/?username=your-github-KarlyPM&color=dc143c) -->
+   [![Instagram Badge]( https://th.bing.com/th/id/R.0dec417928863d43f88a01ec70a89eaf?rik=gm9jqqylRdO2tQ&pid=ImgRaw&r=0?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.instagram.com/thony_cm_18/)
+
+  
 </div>

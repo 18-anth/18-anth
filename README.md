@@ -21,7 +21,7 @@ Passionate about building scalable systems, modern applications, and innovative 
 
 🌱 Currently studying and working.
 📍 Based in Guayaquil, Ecuador
-🌐 Portfolio: **[https://18-anth.github.io/Portfolio_anth/](https://18-anth.github.io/Portfolio_anth/)**
+🌐 Portfolio: **[https://18-anth.github.io/CV_Anth_/](https://18-anth.github.io/CV_Anth_/)**
 
 ---
 

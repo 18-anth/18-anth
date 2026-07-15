@@ -3,7 +3,7 @@
 </p>
 
 <h2 align="center">
-  Hey, hello!
+  Hello!
   <img src="https://user-images.githubusercontent.com/70911022/183312043-095cc4b6-9fc5-4d34-9eb4-b21fa9de8e50.gif" width="30px">
 </h2>
 
